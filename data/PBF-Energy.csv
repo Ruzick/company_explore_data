@@ -1,0 +1,413 @@
+date,employee_title,location,employee_status,review_title,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt,recommends,positive_outlook,approves_of_CEO
+Tue Dec 01 2020, Maintenance,"Paulsboro, NJ",Former Employee ,Was a good place to work,0,"good pay with good people
+","could be forced to work weekends and holidays
+Helpfu",,5.0,2.0,2.0,5.0,1.0,5.0,Doesn't Recommend,Negative Outlook,Disapproves of CEO
+Wed Jan 27 2021, Electrical Inspector,"Martinez, CA",Current Employee ,Inspector,0,"Good pay
+Good people
+Opportunities for advancement
+Safety culture
+","Working around dangerous processes and chemicals
+Helpfu",,4.0,4.0,4.0,5.0,4.0,4.0,Recommends,Neutral Outlook,
+Wed Jan 06 2021, Chemical Engineer,"Torrance, CA",Current Employee ,Solid job,0,"Flexible, hands on opportunity, fast-paced provides lots to learn, high salary, lots of room for growth and mobility.
+","24/7 operation occasionally hinders plans, not hip to times, needs improvement on diversity and inclusion (industry as a whole).
+Helpfu",,4.0,2.0,2.0,2.0,4.0,5.0,Recommends,Neutral Outlook,No opinion of CEO
+Sat Jan 16 2021, Process Operator,"Paulsboro, NJ",Former Employee ,"Great salary, lots of headaches",0,"Excellent salary, decent opportunity for overtime. Great co-workers
+","Horrible middle managment. Micromanage and continuously make poor decisions. Safety culture needs work.
+Advice to Management
+Clean house in your middle management department
+Helpfu","Clean house in your middle management department
+Helpfu",2.0,3.0,3.0,2.0,2.0,4.0,Recommends,Negative Outlook,Disapproves of CEO
+Tue Jan 12 2021, Maintenance,,Current Employee ,ok pay bad management,0,"oka pay and benefits but that is not all you need from a job
+","over 50% of management with low education and no skills
+Advice to Management
+Get educated managers, GED is not enough for manager
+Helpfu","Get educated managers, GED is not enough for manager
+Helpfu",3.0,3.0,2.0,2.0,1.0,3.0,Approves of CEO,,
+Mon Dec 21 2020, Process Engineer,"Chalmette, LA",Current Employee ,Upstart Company Trying to Figure Out How to Operate Long-Term,0,"A large amount of opportunity to learn. Not as bureaucratic as competition.
+","Very little room for career growth.
+Helpfu",,4.0,2.0,3.0,1.0,2.0,4.0,Recommends,Negative Outlook,
+Thu Jan 21 2021, Operator,"Paulsboro, NJ",Former Employee ,Terrible Company,0,"Good pay, good hourly coworkers to work with.
+","Company is poorly ran from the Upper management down to the daily supervisors. They don't care about their employees only their numbers.
+Advice to Management
+Treat the ones who actually make money for the company with respect.
+Helpfu","Treat the ones who actually make money for the company with respect.
+Helpfu",1.0,3.0,1.0,1.0,1.0,3.0,Doesn't Recommend,Negative Outlook,Disapproves of CEO
+Sun Dec 06 2020, Refinery Operator,"Paulsboro, NJ",Current Employee ,Weak union,0,"Good benefits, good pay, good employees
+","Paying union does for a terrible union
+Advice to Management
+Stop thinking everyone’s trying to screw you over when they call out sick
+Helpfu","Stop thinking everyone’s trying to screw you over when they call out sick
+Helpfu",4.0,2.0,3.0,5.0,1.0,5.0,Doesn't Recommend,Negative Outlook,No opinion of CEO
+Tue Nov 24 2020, Board Operator,"Paulsboro, NJ",Current Employee ,Great pay,0,"Great pay live a good life
+","Shift work. Miss holidays birthdays at times but you get 7 day break every month.
+Helpfu",,5.0,3.0,5.0,5.0,5.0,5.0,Recommends,Neutral Outlook,Approves of CEO
+Tue Dec 08 2020, B Operator,"Paulsboro, NJ",Former Employee ,Lay-offs could have been avoided,0,"Good Pay and good benefits
+","Terrible management and business decision
+Helpfu",,3.0,4.0,2.0,4.0,2.0,4.0,Doesn't Recommend,Negative Outlook,Disapproves of CEO
+Tue Nov 24 2020, Senior BPC Architect,"Jersey City, NJ",Former Employee ,Good Work environment,0,"Managers are good. They work with consultants
+","very very micro management at job
+Helpfu",,4.0,5.0,5.0,5.0,2.0,2.0,,,
+Fri Nov 20 2020, Instrument Engineer,"Paulsboro, NJ",Current Employee ,Good place,0,"Fair-minded, good teamwork, good pay
+","Plant closing is possible at some point
+Helpfu",,4.0,3.0,,,,,Recommends,Neutral Outlook,
+Wed Dec 02 2020, Machinist,"Paulsboro, NJ",Current Employee ,Lucrative,0,"The pay is great but the treatment isn't.
+","Always try to do more with less and sometimes it doesn't work.
+Advice to Management
+Don't cut off your nose to spite your face.
+Helpfu","Don't cut off your nose to spite your face.
+Helpfu",2.0,4.0,2.0,3.0,3.0,5.0,Recommends,Neutral Outlook,No opinion of CEO
+Fri Nov 13 2020, Process Operator,"Paulsboro, NJ",Current Employee ,Process Operator at PBF Energy,0,"Great pay
+Vacation time
+401k benefits
+Health insurance
+","Company does not value employees as well as others.
+Helpfu",,4.0,3.0,4.0,4.0,4.0,4.0,Recommends,Negative Outlook,Disapproves of CEO
+Wed Nov 11 2020, Oil Refinery Operator,"Paulsboro, NJ",Current Employee ,Good people,0,"Pay, coworkers, and management. Good culture.
+","Shift work and having to work on holidays
+Helpfu",,5.0,3.0,5.0,5.0,5.0,5.0,Recommends,Negative Outlook,No opinion of CEO
+Wed Nov 04 2020, Assistant Ops Manager,"Paulsboro, NJ",Former Employee ,Pbf energy,0,"Good people. Good Job. Time off. Solid pay.
+","Working holidays and miss family activities do to shift work.
+Helpfu",,4.0,4.0,5.0,4.0,3.0,4.0,Recommends,Neutral Outlook,No opinion of CEO
+Wed Nov 04 2020, Process Operator,"Denver, CO",Current Employee ,Great company to work for,0,"Safe, reliable environment with good maintenance group
+","Company is consolidating due to Covid
+Helpfu",,4.0,4.0,4.0,4.0,1.0,4.0,Recommends,Negative Outlook,Approves of CEO
+Fri Oct 30 2020, Process Operator,"Paulsboro, NJ",Current Employee ,PBF energy,0,"A great place to work.
+","Shutting down many units soon.
+Helpfu",,4.0,,,,,,,,
+Sun Nov 08 2020, Engineering,,Former Employee ,PBF ENERGY,0,"Good compensation and benefits package
+","difficult Work life balance and hours
+Helpfu",,3.0,,,,,,,,
+Sat Oct 03 2020, Operator,"Chalmette, LA",Current Employee ,Operator,0,"Good benefits, work and salary
+","Difficult management and a lot of politics.
+Advice to Management
+Learn to listen to your employees. You constantly preach that we should do things a certain way. Then we do those things and NOTHING is fixed or changes. So eventually we stop doing things that way and then you all start to complain again.
+Helpfu","Learn to listen to your employees. You constantly preach that we should do things a certain way. Then we do those things and NOTHING is fixed or changes. So eventually we stop doing things that way and then you all start to complain again.
+Helpfu",4.0,4.0,3.0,4.0,3.0,5.0,Recommends,Neutral Outlook,No opinion of CEO
+Thu Oct 29 2020, Lab Technician,"Brandywine, DE",Current Employee ,No severance,0,"The money is good but no longevity with this corporation.
+","No severance. No benefits. Just let you go. No loyalty to employees.
+Advice to Management
+Treat employees better
+Helpfu","Treat employees better
+Helpfu",1.0,1.0,3.0,1.0,1.0,3.0,Doesn't Recommend,Negative Outlook,Disapproves of CEO
+Sun Sep 20 2020, Chemical Engineering Co,"Oregon, OH",Former Employee ,First Term Co-op,0,"Great experience in oil industry, great coworkers and treated very well.
+","I had no downsides of working at PBF.
+Helpfu",,5.0,5.0,5.0,5.0,5.0,5.0,Recommends,Positive Outlook,Approves of CEO
+Mon Oct 19 2020, Manager,"New York, NY",Former Employee ,Manager,0,"Attractive Salary, Bonus, Stock options and other benefits
+","Company values are not exemplified by senior leaders
+Helpfu",,1.0,1.0,1.0,1.0,1.0,5.0,Doesn't Recommend,Negative Outlook,Disapproves of CEO
+Fri Oct 16 2020, Process Operator,"Chalmette, LA",Former Employee ,Management Failure,0,"pay and benefits match quality of life.
+","budgeting woes and poor decision making by board of directors
+Advice to Management
+its looks bad on your decision making when you lay people off during a pandemic. you only contribute to problems instead of helping fix them.
+Helpfu","its looks bad on your decision making when you lay people off during a pandemic. you only contribute to problems instead of helping fix them.
+Helpfu",1.0,5.0,5.0,5.0,5.0,5.0,Recommends,Negative Outlook,Disapproves of CEO
+Thu Sep 03 2020, Analytical Technician,"New Orleans, LA",Current Employee ,Company review,0,"Small refining sector company that definitely counts all the marbles and expects employees to do more and more with no extra compensation.
+","No real opportunity for upward mobility
+Helpfu",,3.0,2.0,1.0,2.0,2.0,2.0,Recommends,Neutral Outlook,Approves of CEO
+Tue Aug 18 2020,Anonymous,,Current Employee ,Good place to work,0,"I learned a significant amouunt
+","They rarely hire from within
+Helpfu",,4.0,4.0,4.0,4.0,4.0,4.0,Doesn't Recommend,Negative Outlook,Approves of CEO
+Wed Aug 12 2020, Currently Unemployed,"Chatham, NJ",Former Employee ,It was a pretty good place to work,0,"It is close to home, has decent work/life balance, most people are great to work with
+","Has had its first ever round of layoffs and mandatory pay cuts.
+Helpfu",,3.0,,,,,,,,
+Mon Jul 27 2020, Mechanical Engineering Co,"Oregon, OH",Former Employee ,Mechanical Engineering Co-Op,0,"High salary and interesting projects
+","Overall I enjoyed my experience here
+Helpfu",,5.0,4.0,5.0,5.0,5.0,4.0,Recommends,Neutral Outlook,
+Sun Jul 19 2020, Mechanical Engineer,"Torrance, CA",Former Employee ,PBF Energy Torrance Refining Company,0,"Good pay scale, High degree of independence and self management
+","Some supervisors respect off-hours and some don't: Limited upward mobility
+Helpfu",,4.0,3.0,4.0,3.0,4.0,3.0,Doesn't Recommend,Negative Outlook,Approves of CEO
+Fri Jul 17 2020,Anonymous,,Former Employee ,Friendly Culture,0,"Good people and good culture, management listens to younger people, at least in corporate.
+","Not much room for career development/training
+Helpfu",,4.0,5.0,5.0,2.0,4.0,5.0,Recommends,Neutral Outlook,Approves of CEO
+Sat Jul 11 2020, Operations Supervisor,"Paulsboro, NJ",Former Employee ,Changing Organization,0,"Good people yo work with at the local level
+","Corporate office culture does no align with local ledership
+Helpfu",,4.0,2.0,3.0,3.0,4.0,3.0,Doesn't Recommend,Negative Outlook,
+Tue Jul 21 2020, Process Engineer,"New Orleans, LA",Former Employee ,Great People to work with,0,"Great co-workers to communicate and collaborate ideas with
+","Upper Management and Supervisors had no direct career path laid out or invested the time to develop.
+Helpfu",,3.0,3.0,4.0,2.0,4.0,2.0,,,
+Sat Feb 15 2020, Environmental Engineer,"Delaware City, DE",Current Employee ,Stressful environment,0,"The only reason to work here is for financial reasons.
+","It’s a really unpleasant environment. Very little training provided. It’s a sink or swim type group. HSE is not respected here. Don’t bother working here if you aren’t a chemical or mechanical engineer (you won’t have any respect). There are very few job transfer duty checklists. It’s difficult to figure out who to trust. Very unstable.
+Helpfu",,2.0,3.0,1.0,2.0,4.0,1.0,Doesn't Recommend,Neutral Outlook,No opinion of CEO
+Sat Dec 07 2019, Systems Administrator,"Rockville, MD",Current Employee ,Great place to work!,1,"Great comp and good interview process
+","Sometimes overtime work and compensated but takes away from...
+Helpful (1",,5.0,5.0,5.0,5.0,5.0,5.0,Recommends,Positive Outlook,Approves of CEO
+Tue Sep 17 2019, Process Engineer,,Current Employee ,Great Company,0,"Growing
+Decentralized corporate structure
+Good pay and benefits
+","Too many projects pushed off because there isnt enough money.
+Advice to Management
+Invest in the assets you have before acquiring new ones.
+Helpfu","Invest in the assets you have before acquiring new ones.
+Helpfu",5.0,4.0,5.0,4.0,5.0,4.0,Recommends,Positive Outlook,Approves of CEO
+Fri Aug 30 2019,N/A,, ,Worst internship experience,0,"Pay scale is higher comp to other industries
+","Talking behind people's back
+Departments hate each other
+Poor leadership 
+Arrogance
+Helpfu",,1.0,2.0,1.0,1.0,5.0,2.0,Doesn't Recommend,Neutral Outlook,No opinion of CEO
+Wed Jul 10 2019,Anonymous,,Current Employee ,Great job with good benefits and good compensation,0,"Pay, benefits, plenty of overtime
+","Shift work, little career progression for hourly employees
+Helpfu",,5.0,3.0,4.0,3.0,5.0,4.0,Recommends,Positive Outlook,No opinion of CEO
+Tue Jul 30 2019, Engineer,"Torrance, CA",Former Employee ,stay away!!!,0,"i was left over from exxonmobil
+","trash management. poor leadership.
+Helpfu",,1.0,1.0,1.0,1.0,1.0,1.0,Doesn't Recommend,Negative Outlook,Disapproves of CEO
+Sat Jun 08 2019, Human Resources Advisor,"Torrance, CA",Current Employee ,HR Advisor,0,"Decent salary. Medical benefits and pension plan and 401k plan and vacation.
+","Promotions based on favoritism. High turn over due to non existent work life balance.
+Helpfu",,4.0,2.0,2.0,3.0,4.0,2.0,Recommends,Neutral Outlook,No opinion of CEO
+Mon Feb 25 2019,Anonymous,,Current Employee ,ok place,0,"benefits, starting pay is decent
+","little room for advancement, voice not heard by upper management
+Helpfu",,4.0,,,,,,,,
+Tue Jan 15 2019, Manager,"Parsippany, NJ",Current Employee ,Growing Company,0,"Good pay and excellent benefits
+","Need more structure and more communications
+Advice to Management
+Communicate more with your employees - not just management
+Helpfu","Communicate more with your employees - not just management
+Helpfu",3.0,2.0,3.0,4.0,5.0,3.0,Recommends,Positive Outlook,Approves of CEO
+Tue Oct 23 2018,N/A,, ,Good pay! Benefits could be better.,0,"Good pay! Benefits could be better
+","Lack of guidance at the supervisor level.
+Advice to Management
+Put people in jobs that actually have a little experience in that area.
+Helpfu","Put people in jobs that actually have a little experience in that area.
+Helpfu",4.0,,,,,,,,
+Sat Sep 08 2018,Anonymous,N/A,Former Employee ,Coop,1,"Great company to work at, plenty of opportunities to grow
+","Had to work weekends on occasion to supervise turnarounds
+Helpful (1",,5.0,5.0,5.0,5.0,5.0,5.0,,,
+Mon Aug 20 2018,N/A,, ,Maintenance,0,"Great place to work. Great career
+","There aren't any cons, yet
+Helpfu",,5.0,3.0,5.0,4.0,4.0,5.0,Approves of CEO,,
+Tue May 29 2018,Anonymous,,Current Employee ,Company,0,"Progressive company for young employees,
+","won't allow 9/8's or other flex schedules
+Advice to Management
+Allow 9/8's and promote from within
+Helpfu","Allow 9/8's and promote from within
+Helpfu",4.0,4.0,4.0,3.0,4.0,4.0,,,
+Sun May 27 2018, Engineer,"Toledo, OH",Current Employee ,Good company without large corporate presence,0,"1) PBF Energy is a growing independent refiner.
+2) Good profit sharing program with employees.
+3) Five oil refining sites that operate independently.
+4) No large corporate presence that over-rides local business practices.
+5) Ample opportunities to succeed in one's current job.
+","1) Little to no communication on profit sharing program.
+2) Little focus on career development.
+3) Some department bear more responsibility than others.
+Advice to Management
+Recognize individuals who greatly contribute to the organization and take the time to find out how to properly reward them (either with spot bonuses or compensated time).
+Helpfu","Recognize individuals who greatly contribute to the organization and take the time to find out how to properly reward them (either with spot bonuses or compensated time).
+Helpfu",4.0,5.0,4.0,3.0,5.0,3.0,Recommends,Positive Outlook,No opinion of CEO
+Wed May 16 2018,N/A,, ,Great,0,"Nimble organization, responds generally well to change
+","Can sometimes feel like the ""old boys club""
+Helpfu",,4.0,3.0,,,,,,,
+Tue Apr 17 2018, Billing Associate,"Parsippany, NJ",Current Employee ,billing associate,0,"free lunch on Fridays. flexible if you need time off.
+","same thing every day. not many chances for promotions, just moving departments.
+Advice to Management
+look at promotions more
+Helpfu","look at promotions more
+Helpfu",4.0,4.0,5.0,3.0,4.0,4.0,Recommends,Positive Outlook,Approves of CEO
+Sun Apr 01 2018, A Operator,"Delaware City, DE",Former Employee ,Disgruntled ex employee,0,"Great benefits and pay scale
+","Management does not care about their employees. They do not listen to operators like they should.
+Advice to Management
+Give good employees a second chance. Listen to experienced operators
+Helpfu","Give good employees a second chance. Listen to experienced operators
+Helpfu",3.0,3.0,3.0,3.0,5.0,1.0,Recommends,Neutral Outlook,No opinion of CEO
+Sat Feb 24 2018, Fixed Equipment Reliability Engineer,"Torrance, CA",Current Employee ,Growing Company with Personal Growth Potential but also Growing Pains,2,"The company is growing like mad but has a good history of turning one company's bad refinery into a profiitable place. Bonus structure means bonus is paid out most years, very generous based on profit-sharing.
+","Management is old and sometimes disrespectful.
+No turnaround/ overtime compensation.
+Very understaffed, employees are expected to wear many hats and pick up the slack of others.
+Helpful (2",,4.0,4.0,3.0,4.0,5.0,3.0,Recommends,Positive Outlook,Approves of CEO
+Sun Nov 26 2017,Anonymous,"New Orleans, LA",Current Employee ,ENGINEER,0,"Great and intelligent people 
+Challenging projects 
+Stability
+","Demanding time intensive 
+Slow moving with innovation
+Helpfu",,4.0,3.0,3.0,4.0,5.0,3.0,Recommends,Positive Outlook,Approves of CEO
+Wed Nov 29 2017,Anonymous,,Current Employee ,process engineer,0,"small and nimble enabling opportunities to learn about the business
+","lack opportunities for career advancement
+Advice to Management
+active coaching
+Helpfu","active coaching
+Helpfu",2.0,2.0,1.0,2.0,3.0,2.0,Doesn't Recommend,Neutral Outlook,No opinion of CEO
+Sun Nov 12 2017, Process Operator,"Chalmette, LA",Current Employee ,Current employee,1,"New company, seems to be doing well. Bought out ExxonMobil and we seem to have a lot of room to grow
+","This company is actually PBF HOLDING company, that makes us as employees cringe some, hopefully PBF is in it for the ling haul.
+Advice to Management
+Continue to grow.
+Helpful (1","Continue to grow.
+",4.0,3.0,4.0,4.0,5.0,3.0,Recommends,Positive Outlook,Approves of CEO
+Wed Oct 04 2017,Anonymous,,Former Employee ,Good Pay/Bad Culture,0,"Learn a lot
+Good Pay and Benefits
+","Poor management/company culture
+""sink or swim"" training style
+Helpfu",,2.0,2.0,2.0,2.0,4.0,2.0,,,
+Tue Sep 19 2017,Anonymous,,Current Employee ,Good Experience,0,"Autonomous work culture. There is some room to grow upward through advancement if you are extremely patient, or outward by broadening the scope of your role. The company provides a good work-life balance as well. Good benefits. Overall a good experience.
+","The only con is that there still room to improve the paid time off benefit. They appear to be working on it.
+Helpfu",,3.0,4.0,3.0,3.0,3.0,3.0,Recommends,,Approves of CEO
+Mon Aug 28 2017,Anonymous,,Current Employee ,A good company to work,0,"Good work life balance and benefits
+","Need improvement in career development and opportunities for advancement
+Helpfu",,4.0,4.0,4.0,3.0,4.0,4.0,Recommends,Neutral Outlook,Approves of CEO
+Tue Aug 29 2017, Treasury Analyst,"Parsippany, NJ",Current Employee ,Treasury analyst,0,"Benefit compensation is better then most companies today.
+","Lack of communication and organization between departments.
+Helpfu",,3.0,3.0,1.0,1.0,3.0,1.0,Doesn't Recommend,Positive Outlook,No opinion of CEO
+Tue Jun 13 2017,Anonymous,,Current Employee ,Average to Below Average - not too thrilling,0,"There are some good managers
+","Managers are technically savvy, but not very personable
+Advice to Management
+Make your employees feel heard
+Helpfu","Make your employees feel heard
+Helpfu",3.0,1.0,2.0,3.0,3.0,2.0,,,
+Tue Apr 25 2017,Anonymous,,Current Employee ,PBF Review,0,"Plenty of opportunity for growth/experience.
+","Understaffed, resulting in heavy workload
+Helpfu",,5.0,3.0,4.0,4.0,4.0,3.0,,,
+Fri Apr 21 2017,Anonymous,"Chalmette, LA",Current Employee ,Great Company,0,"Pay and benefits are pretty good. Raise every year.
+","12 hour rotating shift is kind if hard
+Advice to Management
+More pay????
+Helpfu","More pay????
+Helpfu",5.0,3.0,5.0,3.0,5.0,4.0,Recommends,Positive Outlook,Approves of CEO
+Sun Nov 06 2016,N/A,"Parsippany, NJ","Analyst in Parsippany, NJ","Very disappointing experience, don't settle for this place.",5,"Fast pace environment, always have work to do so your day flies by, easy location to find, always available parking.
+","This place is Childish and unorganized. They never give you any proper training, they just throw you in and u sink or swim. You literally have to teach yourself everything. And if you sink they will get rid of you, only based on the opinion of your coworkers, not because management ever took the time to see how u were adjusting. Everyone is TOO busy to stop and help and work never gets completed. Workers are immature, and lots of drama gets escalated from coworkers not maintaining a professional standard. Also management and HR fault. It's basically like a giant adult prison, just waiting 8 hours to get out of hell. You will get used and abused until they can hire someone younger and cheaper. You've been warned. Don't work here!
+Advice to Management
+Listen to your workers input, stop playing favorites, maybe try saying good morning to your employee, HR get your acts together. Management stop treating your workers like they are on an assembly line who will only aspire to a 3% increase each year. And when someone knew asks how am I doing. The appropriate response should not be ...yea just keep doing what you're doing. Hire quality employees, not just a body to sit there and get the work done. Not going to be a successful company, stay away!
+Helpful (5","Listen to your workers input, stop playing favorites, maybe try saying good morning to your employee, HR get your acts together. Management stop treating your workers like they are on an assembly line who will only aspire to a 3% increase each year. And when someone knew asks how am I doing. The appropriate response should not be ...yea just keep doing what you're doing. Hire quality employees, not just a body to sit there and get the work done. Not going to be a successful company, stay away!
+",1.0,1.0,1.0,1.0,2.0,1.0,Doesn't Recommend,Neutral Outlook,Disapproves of CEO
+Tue Jun 28 2016,Anonymous,,Current Employee ,Not what it once was but still has potential,3,"Pay, bonus, benefits, 401k, and pension are all top of the line. It is a young company with potential, so it is growing fast. Because its a relatively small company, there's very little red tape and implementing a project that makes sense is not very difficult. This is perfect for creative minds and it provides a great deal of job satisfaction because you really can see the fruits of your own labor. There's never a day that is boring or not busy. There are many creative, bright individuals here with excellent ideas.
+","Advancement is not based on performance, instead on how buddy buddy you are with the right management people. The majority of management knows little to nothing about actually managing people, so the refinery is very misguided and many try to lead by intimidation and have little to no trust in the bottom level staff (without reason). The young workers are abused and overworked and underpaid compared to those with a little more experience. It wouldn't be difficult to find a comparable job that pays about 80-90% of what you make here but has 50% or less of the workload. If you have any oil giant on your resume from the past, you're treated as a deity regardless of actual skill, intelligence, experience, or performance. You are often asked to do redundant work over and over again because of the lack of trust and communication. Lots of the base level work is done for the sake of being busy and does not provide any actual value. The company is understaffed across the board, and the workload just continually gets increased. Work-life balance is below average on the best days and turnarounds are just ridiculously awful.
+Advice to Management
+Listen to and trust your base level workers (salary and hourly). Hire more engineers and operators. Before adding workload to your staff, consider the value behind that work and if it's truly worth the time to an already understaffed organization. Pay overtime to salary employees for turnarounds or establish fixed compensation time rules. In the beginning, this was a great company to work for, anymore, I'm not sure if it's really worth being a part of but it can be like it used to if the management turns their act around. It looks like things will be getting better in the near future but who knows.
+Helpful (3","Listen to and trust your base level workers (salary and hourly). Hire more engineers and operators. Before adding workload to your staff, consider the value behind that work and if it's truly worth the time to an already understaffed organization. Pay overtime to salary employees for turnarounds or establish fixed compensation time rules. In the beginning, this was a great company to work for, anymore, I'm not sure if it's really worth being a part of but it can be like it used to if the management turns their act around. It looks like things will be getting better in the near future but who knows.
+",3.0,2.0,3.0,4.0,5.0,2.0,Doesn't Recommend,Positive Outlook,Approves of CEO
+Sat May 07 2016,Anonymous,"Parsippany, NJ",Current Employee ,Growing Company,2,"PBF is growing so the atmosphere is exciting and entrepreneurial. Non-bureaucratic environment. People are smart and engaging.
+","Somewhat lacking in leadership. Office location is non-nonsensical. Technological resources are dated.
+Advice to Management
+Consider moving the office to a location that is more conducive to attracting talent. Invest in technology for your employees.
+Helpful (2","Consider moving the office to a location that is more conducive to attracting talent. Invest in technology for your employees.
+",4.0,4.0,4.0,3.0,3.0,4.0,Recommends,Positive Outlook,
+Fri Apr 15 2016,N/A,"Parsippany, NJ"," in Parsippany, NJ",Analyst,0,"Growth opportunities are very strong. People are all very talented.
+","Located in Parsippany, NJ. You are in the middle of NJ, and if you like in Manhattan, it is an awful commute.
+Advice to Management
+Move office location to somewhere other than Parsippany. Ideally would be located in New York City or Greenwich/Stamford, CT.
+Helpfu","Move office location to somewhere other than Parsippany. Ideally would be located in New York City or Greenwich/Stamford, CT.
+Helpfu",5.0,5.0,5.0,5.0,5.0,5.0,Recommends,Positive Outlook,Approves of CEO
+Fri Feb 26 2016,N/A,, ,Operator,1,"Money is great, so is training.
+","Forced overtime and lengthy turn arounds.
+Helpful (1",,5.0,2.0,3.0,5.0,5.0,4.0,Recommends,Positive Outlook,Approves of CEO
+Sat Feb 06 2016, Engineer,"Chalmette, LA",Former Employee ,Horrible experience,0,"Didn't get killed. I didn't find any pros except for the pension. Don't waste your time. I wish I hadn't spent 8 years
+","Horrible work environment. Destructive management. Don't work here! They treat employees like animals. Be very careful. It is a union facility which makes it worse
+Advice to Management
+Try to be at least a little bit personable.
+Helpfu","Try to be at least a little bit personable.
+Helpfu",1.0,1.0,1.0,1.0,2.0,1.0,Doesn't Recommend,,Disapproves of CEO
+Wed Dec 02 2015,N/A,, ,Good riddance,3,"Good salary potential but not worth sacrifices
+","Do not treat individuals as valuable
+Clique managment
+Helpful (3",,1.0,1.0,2.0,1.0,4.0,2.0,Doesn't Recommend,,Approves of CEO
+Thu Sep 17 2015, Senior Environmental Engineer,"Paulsboro, NJ",Former Employee ,Very lean corporate structure.,0,"It was a good company in that you got to interface with many senior corporate leaders and got to perform work that you normally would have been completed out of a corporate headquarters.
+","It wasn't the type of company that I wanted to work for at the time. There did not appear to be many opportunities for advancement.
+Helpfu",,3.0,3.0,3.0,2.0,3.0,4.0,Recommends,Positive Outlook,No opinion of CEO
+Tue Aug 25 2015,Anonymous,,Current Employee ,Process engineer,1,"Great group of people who are willing to take time to teach and make sure principles are understood by employees, and go through the decisions making process with you.
+","Not sure of cons yet, maybe long hours, I enjoy my job so the hours really are not a huge deal at all when it comes to staying at work for awhile.
+Advice to Management
+I do not have any advice to management, I am just trying to learn myself and hope to add value to the company and start off my career on the right track.
+Helpful (1","I do not have any advice to management, I am just trying to learn myself and hope to add value to the company and start off my career on the right track.
+",5.0,,,,,,,,
+Thu Sep 10 2015,Anonymous,,Former Employee ,Focus on the future?,1,"Fast-paced environment in a growing company. There are some very talented people within the company from which to learn. Pay and benefits seem adequate on the surface (more on that in cons).
+","In a fast-paced environment it is very easy to lose sight of what makes things work - the employees. With very few exceptions, there is no focus on development of talent internally and that is evident by the rising number of departures of original members of the company. There is also an enabling culture at PBF that allows sub-par performers to not only keep their jobs but get rewarded - WOW! There is definitely a focus of management making sure that they pay themselves and that raises are kept minimal for most of the work force on annual basis. Worked several years with no increase in salary or acknowledgement of the effort.
+Advice to Management
+Refocus on training and rewarding the workforce rather than changing titles and increasing salaries at the top. It appears selfish and not focused on building a sustainable workforce.
+Helpful (1","Refocus on training and rewarding the workforce rather than changing titles and increasing salaries at the top. It appears selfish and not focused on building a sustainable workforce.
+",2.0,2.0,3.0,3.0,4.0,3.0,Doesn't Recommend,Positive Outlook,
+Thu Jul 30 2015,N/A,"Parsippany, NJ"," in Parsippany, NJ",Great Company to work for,1,"Great people; Good benefits; Growing company with opportunities for those who seeks them; Experienced Growth driven management team; Exciting place to work
+","Staffing runs on the lean side so there is always plenty of work; too many consultants who aren't invested in the Company's performance and future; Not a company that lends itself to working remotely or flexible schedules
+Advice to Management
+Proactively staff for known upcoming change in order to prevent overworking the current staff. Be more transparent about change.
+Helpful (1","Proactively staff for known upcoming change in order to prevent overworking the current staff. Be more transparent about change.
+",4.0,3.0,4.0,5.0,4.0,4.0,Recommends,Positive Outlook,Approves of CEO
+Mon Jul 27 2015, A Operator,"Delaware City, DE",Current Employee ,The industries trend setters,1,"Security because they quickly adapt to the market and stay competitive 
+Excellent benefits and pay
+The CEOs have a lot of experience in the industry
+","This is a streamline company and you wear many ""hats"".
+Many individuals and some groups don't understand the concept of being a TEAM
+Advice to Management
+Start investing in the real asset, the operators. The operator work force is getting younger with less experience. There are too many chiefs and not enough Indians.
+Helpful (1","Start investing in the real asset, the operators. The operator work force is getting younger with less experience. There are too many chiefs and not enough Indians.
+",4.0,2.0,4.0,3.0,5.0,2.0,Recommends,Positive Outlook,Approves of CEO
+Wed Apr 01 2015,N/A,"Parsippany, NJ","Trading Assistant in Parsippany, NJ",Overall Good Company To Work For,0,"Large company on a single floor.
+Pay is great.
+Paid over time.
+Tons of experience in the oil and energy business sitting near you
+People are willing to help you if you ask
+","Some people can be pretty blunt on the trading floor.
+Things get lost in translation between departments.
+Many issues with the systems used, the IT team is never bored.
+Most people are nice, but there are one or two people that will but heads when issues present themselves, not because they dislike each other but because there are a lot of new issues and there are no processes in place to handle them.
+Advice to Management
+Although there is a clear path of communication between management and the less experienced employees a little more direction could help newbies
+Helpfu","Although there is a clear path of communication between management and the less experienced employees a little more direction could help newbies
+Helpfu",4.0,3.0,4.0,4.0,4.0,4.0,Recommends,Positive Outlook,Approves of CEO
+Tue Nov 18 2014,N/A,, ,Fast growing company.,1,"Refining and Marketing company is a good industry.
+","Location. Parsipanny is not close to anything.
+Advice to Management
+Standardize processes.
+Helpful (1","Standardize processes.
+",4.0,3.0,3.0,3.0,3.0,3.0,Recommends,,No opinion of CEO
+Wed Aug 06 2014, Scheduler,"Parsippany, NJ",Former Employee ,"Poorly compensated, No clear work role definitions, Young are abused here.",0,"People around you have a lot of industry experience.
+","They like to operate very lean here, so you are always asked to do things outside your job role and are constantly over-worked. Management is very blind to the daily operations work that exist. Very poor in compensation, they will give you ""promotions"" without a raise in salary or benefits; essentially its just more roles without increased pay. Bonuses are not guaranteed and for the past two years they have issued less than 1% in bonus. You are also capped at a 3% yearly max salary raise. Although the experience around you is good, you are never able to truly learn from it because everyone has so much on their plate they have no time to teach or have their brain picked. You move up in this company based on whether or not your relationship with management is good, not based on your quality of work. It's an ""every man for themselves"" environment. Even managers will sell you out for doing something they forced you to do if they have too. Work-life balance is terrible; the company never does anything for employees, not even a free lunch. Communication is also very poor. People aren't clear as to who does what or as to what the direction of certain projects are. It causes confusion and friction when relying on teams/individuals for quality information
+Advice to Management
+The managers understand the big picture but are somewhat clueless as to what it takes to run the company on a day to day. You need more resources and people to assist. Communication is very poor, you need to be more clear with the internal directions and roles of people.
+Offer more growth and education to the youth. Their are a lot of hungry hardworking individuals who want to excel, let them and cut the managers who hold them down because they like to coast at their position.
+Helpfu","The managers understand the big picture but are somewhat clueless as to what it takes to run the company on a day to day. You need more resources and people to assist. Communication is very poor, you need to be more clear with the internal directions and roles of people.
+Offer more growth and education to the youth. Their are a lot of hungry hardworking individuals who want to excel, let them and cut the managers who hold them down because they like to coast at their position.
+Helpfu",2.0,1.0,2.0,2.0,1.0,2.0,Doesn't Recommend,Neutral Outlook,Approves of CEO
+Mon May 05 2014, Refinery Operator,"Toledo, OH",Current Employee ,Able to make good money,0,"Good money, fair amounts of overtime, multiple career moves and directions, good training
+","Difficult to work with management and union at times, crazy schedule with chance of getting forced to work with little notice, hard to work with some personalities
+Advice to Management
+Trust chief operators more, plan maintenance and work in the plants more efficiently
+Helpfu","Trust chief operators more, plan maintenance and work in the plants more efficiently
+Helpfu",5.0,2.0,3.0,5.0,5.0,3.0,Recommends,Positive Outlook,No opinion of CEO
+Sat Mar 29 2014, Engineer,"Toledo, OH",Former Employee ,A good company with correctable issues,3,"-The people are the best part about working for this company. 
+-Many experienced individuals who are willing to share their knowledge with the next generation of refinery professionals.
+-The company is very focused on making the moves necessary to insure the future profitability of its facilities - basically if a project will make the company money, they will pursue it as quickly as possible, which makes for an exciting working environment.
+-Good compensation, benefits and job security on all levels, especially when compared to other industries.
+","-Sometimes the pursuit of finishing things quickly puts people in the position of ""hurry up and wait"", i.e. you are working hard for no real reason.
+-There can be a real lack of ownership when something doesn't go right - it's always someone else's fault.
+-There is no reimbursement for graduate education, but they do pay for professional training (PMP, PE, etc.).
+-They are very slow to move to hire directly and utilize many contractors.
+Advice to Management
+-If someone has performed well above expectations and is a true asset to the team, take the effort to keep them on.
+-Make it a point of emphasis that managers need to make decisions in a timely manner, much time and effort is expended waiting for answers.
+-Continue to makes investments in facilities with the future in mind.
+Helpful (3","-If someone has performed well above expectations and is a true asset to the team, take the effort to keep them on.
+-Make it a point of emphasis that managers need to make decisions in a timely manner, much time and effort is expended waiting for answers.
+-Continue to makes investments in facilities with the future in mind.
+",4.0,3.0,4.0,4.0,4.0,3.0,Recommends,Positive Outlook,Approves of CEO
+Wed Jan 29 2014,N/A,, ,No Work/Life Balance,0,"Money, Money, Money, and Money!
+","No Life, need more vacation time.
+Advice to Management
+Bigger Profit sharing Checks Needed!
+Helpfu","Bigger Profit sharing Checks Needed!
+Helpfu",3.0,,,,,,,,
+Wed Jun 12 2013,Anonymous,,Current Employee ,PBF Energy is a great company where young engineers can grow and expand their knowledge base rapidly.,2,"1. PBF Energy has made the process of applying equipment upgrades to improve reliability and efficiency very simple. 
+2. PBF Energy plant managers typically have a hands off approach and rely heavily on lower level salaried employees. 
+3. PBF Energy promotes training and provides a reimbursement program for employees.
+4. Health benefits are competitive with the industry.
+5. Salaried employees are given the opportunity to work independently without being micro-managed.
+","1. PBF Energy senior technical expertise in the field of Reliability Engineering is lacking.
+2. Salary compensation is a bit lower than the industry standard regarding years of experience and knowledge base.
+3. Training costs (flight, hotel, car, course, food, etc.) first have to be covered by the employee and then reimbursed.
+Advice to Management
+1. Ensure resources are available and implemented in a timely manner if lower salaried employees become overwhelmed with the day to day regular activities and emergencies.
+2. Ensure senior technical personnel are available for technical support on a day to day basis.
+3. Communicate regurlary to lower level personnel on a daily basis to gain a perspective of daily responsibilities and activities.
+Helpful (2","1. Ensure resources are available and implemented in a timely manner if lower salaried employees become overwhelmed with the day to day regular activities and emergencies.
+2. Ensure senior technical personnel are available for technical support on a day to day basis.
+3. Communicate regurlary to lower level personnel on a daily basis to gain a perspective of daily responsibilities and activities.
+",4.0,4.0,4.0,4.0,4.0,3.0,Recommends,Positive Outlook,Approves of CEO
+Sat Oct 06 2012,Anonymous,"Parsippany, NJ",Current Employee ,Great place to work!,1,"This is a new company (though by no means tiny), so every employee plays an important role. Independent workers thrive in this atmosphere and have the opportunity to really put their fingerprints on the organization. Employees are very nice and strive for a strong teamwork atmosphere to keep the business running smoothly. Managers are mostly hands-off. Many of the experienced employees were hired by PBF after they were layed off from other companies (usually after 20 or 30 years with those companies)...the owner of the company should get a gold star just for that. Benefits are excellent.
+","Owner of the company tends to build refining businesses and them sell them after a couple of years. Employees must be resourceful and self-training to work here, because there are no experienced employees to mentor them.
+Helpful (1",,4.0,5.0,4.0,4.0,5.0,4.0,Recommends,Positive Outlook,
+Sun Jul 08 2012, Engineer,"Oregon, OH",Current Employee ,Highly technical position that offers many opportunities to learn.,0,"Very valuable experience to build a resume. 
+Very good pay starting out of college.
+","Company is still young and lacks good organization for some of the lower levels.
+Advice to Management
+More clear cut roles and responsibilities.
+Helpfu","More clear cut roles and responsibilities.
+Helpfu",4.0,3.0,4.0,4.0,5.0,4.0,Recommends,Positive Outlook,
+Mon Aug 13 2012,Anonymous,,Current Employee ,Its a great place to work!,0,"Great people with great oops for advancement.
+","Small startup coming that is ever changing.
+Helpfu",,4.0,4.0,3.0,4.0,4.0,4.0,Recommends,Positive Outlook,
