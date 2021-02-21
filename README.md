@@ -1,3 +1,17 @@
+The data used in the company_explore (https://github.com/Ruzick/company_explore) is in the data folder
+# To Build The Database
+See get_dataframe.py
+
+# For Sentiment Analysis
+See training the model.ipynb
+
+## All files also have jupyter notebook version so that you can inspect the data easily
+
+
+
+
+# For Glass Door Data Scrapper:
+# I used https://github.com/MatthewChatham/glassdoor-review-scraper  
 # Disclaimer
 This scraper is provided as a public service because Glasdoor doesn't have an API for reviews. Glassdoor TOS prohibit scraping and I make no representation that your account won't be banned if you use this program. Furthermore, should I be contacted by Glassdoor with a request to remove this repo, I will do so immediately.
 
