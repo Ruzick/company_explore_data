@@ -7,8 +7,8 @@ See training the model.ipynb
 
 ## All files also have jupyter notebook version so that you can inspect the data easily
 
-
-
+## Silhouette/clusters graph
+Followed this article: https://towardsdatascience.com/k-means-clustering-how-it-works-finding-the-optimum-number-of-clusters-in-the-data-13d18739255c
 
 # For Glass Door Data Scrapper:
 # I used https://github.com/MatthewChatham/glassdoor-review-scraper  
